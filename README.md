@@ -1,6 +1,5 @@
 - 👋 Hi, my name is Leshawn Phillips!
-- 👀 I’m interested in creating and maintaining software to solve business' needs.
-- 🌱 I’m currently learning and gaining experience with JavaScript, TypeScript, Node, NextJS, Express & more!
+- 👀 I create and maintain software to solve business' needs.
 - 📫 You can reach me by email at leshawn.phillips@outlook.com!
 
 <!---
